@@ -14,8 +14,7 @@ Hi, I'm Gavin Ondari , a passionate self-taught Mobile developer from Kenya. Cre
 I always keep learning something new and reinforcing what i already know.
 
  How to reach me **gavinmasese911@gmail.com**
-
-- ⚡ Fun fact 
+<h1 align="center"> Fun fact </h1> 
 <br>
 Do not cling to what you were, we will transform you into so much more.
 
@@ -34,7 +33,10 @@ Do not cling to what you were, we will transform you into so much more.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-![Gavin Masese, Mobile app developer](https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/squirrel2.1.png) 
+<h1 align="center"> My GitHub Stats </h1>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=poeticjustice1&show_icons=true&theme=gotham" alt="poeticjustice1" />
+
+<!-- ![Gavin Masese, Mobile app developer](https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/squirrel2.1.png) --!>
 
 <!-- https://github.com/vandadnp/flutter-tips-and-tricks/releases/tag/312 --!>
