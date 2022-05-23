@@ -1,7 +1,11 @@
 <h1 align="center">Hi , I'm Gavin Masese</h1>
 <h3 align="center">A passionate mobile developer from Nairobi</h3>
 
+<br>
+
 <img align="right" alt="GIF" src="https://github.com/poeticjustice1/poeticjustice1/blob/main/code.gif?raw=true" width="500" height="320" />
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poeticjustice1&label=Profile%20views&color=0e75b6&style=flat" alt="poeticjustice1" /> </p>
 
