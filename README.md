@@ -1,5 +1,5 @@
 
-![Gavin Masese, Mobile app developer](https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/squirrel2.1.png) 
+![Gavin Masese, Mobile app developer](https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/deer.png) 
 
 <h1 align="center">Hi , I'm Gavin Masese</h1>
 <h3 align="center">A passionate mobile developer from Nairobi</h3>
