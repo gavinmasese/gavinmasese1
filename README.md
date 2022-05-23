@@ -2,24 +2,25 @@
 <h3 align="center">A passionate mobile developer from Nairobi</h3>
 
 <br>
+<img align="center" alt="GIF" src="https://github.com/poeticjustice1/poeticjustice1/blob/main/code.gif?raw=true" width="500" height="320" /> 
 
-<img align="right" alt="GIF" src="https://github.com/poeticjustice1/poeticjustice1/blob/main/code.gif?raw=true" width="500" height="320" />
-
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poeticjustice1&label=Profile%20views&color=0e75b6&style=flat" alt="poeticjustice1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gavinmasese" target="blank"><img src="https://img.shields.io/twitter/follow/gavinmasese?logo=twitter&style=for-the-badge" alt="gavinmasese" /></a> </p>
 
-- 🌱 I’m currently learning **Computer science**
+Hi, I'm Gavin Ondari , a passionate self-taught Mobile developer from Kenya. Creating Code is one of the things that i am most passionate about doing, understanding the problem and giving a solution through creativity and logic is an incredible feeling.
 
-- 👯 I’m looking to collaborate with **other developers**
+I always keep learning something new and reinforcing what i already know.
 
-- 📫 How to reach me **gavinmasese911@gmail.com**
+ How to reach me **gavinmasese911@gmail.com**
 
 - ⚡ Fun fact 
 <br>
 Do not cling to what you were, we will transform you into so much more.
+
+<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
