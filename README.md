@@ -17,7 +17,9 @@
 
 - 📫 How to reach me **gavinmasese911@gmail.com**
 
-- ⚡ Fun fact **Computers don't cry**
+- ⚡ Fun fact 
+<br>
+Do not cling to what you were, we will transform you into so much more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
