@@ -51,7 +51,7 @@ Do not cling to what you were, we will transform you into so much more.
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/poeticjustice1/poeticjustice1" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/poeticjustice1/poeticjustice1" alt="Issues Badge"/></a>
 <a href="https://github.com/poeticjustice1/poeticjustice1"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/poeticjustice1/poeticjustice1?color=2b9348"></a>
-<a href="https://github.com/poeticjustice1/poeticjustice1/blob/master/LICENSE"><img src="https://img.shields.io/github/license/poeticjustice1/poeticjustice1?color=2b9348" alt="License Badge"/></a>
+<!-- <a href="https://github.com/poeticjustice1/poeticjustice1/blob/master/LICENSE"><img src="https://img.shields.io/github/license/poeticjustice1/poeticjustice1?color=2b9348" alt="License Badge"/></a> --!>
 
 <!--end of repo details --!>
 
