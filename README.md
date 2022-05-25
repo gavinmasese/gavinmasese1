@@ -1,3 +1,5 @@
+<hr>
+
 <h1 align="center">Hi , I'm Gavin Masese  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">A passionate mobile developer from Nairobi</h3>
 
@@ -60,3 +62,5 @@ Do not cling to what you were, we will transform you into so much more.
 <!-- https://github.com/vandadnp/flutter-tips-and-tricks/releases/tag/312 --!>
 
 <!-- <a href="https://github.com/poeticjustice1"><img src="https://avatars1.githubusercontent.com/u/26563213?v=4" width="100px;" alt=""/><br /><sub><b>Gavin Masese</b></sub></a> --!>
+
+<hr>
