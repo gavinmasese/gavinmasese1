@@ -58,3 +58,5 @@ Do not cling to what you were, we will transform you into so much more.
 <!-- ![Gavin Masese, Mobile app developer](https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/squirrel2.1.png) --!>
 
 <!-- https://github.com/vandadnp/flutter-tips-and-tricks/releases/tag/312 --!>
+
+<!-- <a href="https://github.com/poeticjustice1"><img src="https://avatars1.githubusercontent.com/u/26563213?v=4" width="100px;" alt=""/><br /><sub><b>Gavin Masese</b></sub></a> --!>
