@@ -64,3 +64,6 @@ Do not cling to what you were, we will transform you into so much more.
 <!-- <a href="https://github.com/poeticjustice1"><img src="https://avatars1.githubusercontent.com/u/26563213?v=4" width="100px;" alt=""/><br /><sub><b>Gavin Masese</b></sub></a> --!>
 
 <hr>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="masese-gavin-315377192" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/masese-gavin-315377192?trk=profile-badge">Masese Gavin</a></div>
+              
+
