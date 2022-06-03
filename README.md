@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile developer from Nairobi</h3>
 
 <br>
-<img align="center" alt="GIF" src="https://github.com/poeticjustice1/poeticjustice1/blob/main/code.gif?raw=true" width="500" height="320" /> 
+<!-- <img align="center" alt="GIF" src="https://github.com/poeticjustice1/poeticjustice1/blob/main/code.gif?raw=true" width="500" height="320" /> --!>
 
 
 <!--profile visits--!>
@@ -11,7 +11,9 @@
 <!--twitter badge--!>
 <p align="left"> <a href="https://twitter.com/gavinmasese" target="blank"><img src="https://img.shields.io/twitter/follow/gavinmasese?logo=twitter&style=for-the-badge" alt="gavinmasese" /></a> </p>
 
-Hi, I'm Gavin Ondari , a passionate self-taught Mobile developer from Kenya. Creating Code is one of the things that i am most passionate about doing, understanding the problem and giving a solution through creativity and logic is an incredible feeling.
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> --!> Hi, I'm Gavin Ondari , a passionate self-taught Mobile developer from Kenya. Creating Code is one of the things that i am most passionate about doing, understanding the problem and giving a solution through creativity and logic is an incredible feeling.
 
 I always keep learning something new and reinforcing what i already know.
 
