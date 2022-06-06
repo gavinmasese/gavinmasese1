@@ -19,10 +19,13 @@ I always keep learning something new and reinforcing what i already know.
 
 <br>
 
-<h3 align="left">  Quote.  </h3>
-<br>
-Do not cling to what you were, we will transform you into so much more.
-
+<h3 align="left">Connect with me:</h3>
+<hr>
+<p align="left">
+<a href="https://twitter.com/gavinmasesese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gavinmasesese" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/masese gavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masese gavin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19150999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19150999" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
@@ -41,13 +44,11 @@ github stats--!>
 <br>
 
  <img width="200" alt="Gavin Ondari" align="left" src="https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/squirrel2.1.png">
-<h3 align="left">Connect with me:</h3>
+
+<h3> Closing Remarks </h3>
 <hr>
-<p align="left">
-<a href="https://twitter.com/gavinmasesese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gavinmasesese" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/masese gavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masese gavin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19150999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19150999" height="30" width="40" /></a>
-</p>
+
+<p style="text-align: center">Understand you won't always have an answer, but also understand it's your responsibility to have one the next time the same question comes up.</p>
 
 
 
