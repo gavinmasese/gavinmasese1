@@ -61,7 +61,7 @@ end of repo details --!>
 
 <br>
 
-
+ <img width="200" alt="Gavin Ondari" align="left" src="https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/squirrel2.1.png">
 <!-- ![Gavin Masese, Mobile app developer](https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/squirrel2.1.png)--!>
 
 <!-- https://github.com/vandadnp/flutter-tips-and-tricks/releases/tag/312 --!>
