@@ -18,7 +18,7 @@
 I always keep learning something new and reinforcing what i already know.
 
 <!--  How to reach me **gavinmasese911@gmail.com** --!>
-<h1 align="center"> Quote </h1> 
+<h1 align="center"> <span style="color:blue"> Quote. </span>  </h1>
 <br>
 Do not cling to what you were, we will transform you into so much more.
 
