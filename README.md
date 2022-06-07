@@ -2,8 +2,8 @@
 <h3 align="center">A passionate mobile developer from Nairobi</h3>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b3c04b4a-58f5-4456-b42a-422e63add397/deploy-status)](https://app.netlify.com/sites/poeticjustice/deploys)
-
-<!-- https://app.netlify.com/sites/poeticjustice/settings/domain --!>
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gavinmasese.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gavinmasese)
 
 <br>
 <!-- <img align="center" alt="GIF" src="https://github.com/poeticjustice1/poeticjustice1/blob/main/code.gif?raw=true" width="500" height="320" /> --!>
