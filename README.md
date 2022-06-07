@@ -49,6 +49,38 @@ github stats--!>
 
  <img width="200" alt="Gavin Ondari" align="left" src="https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/squirrel2.1.png">
 
+<h3> Projects and Dev Stuffs: </h3>
+<hr>
+
+<details>	
+  <summary><b> Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gavinmasese&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</details>
+
+<details>	
+  <summary><b> Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gavinmasese&hide_border=true" />
+</details>
+ 
+<details>	
+  <br />
+  <summary><b> Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 20.04</li>
+	    <li><b>Laptop: </b> lenovo  (i5)</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br />
+	</ul>	
+</details>
+
+
 <h3> Closing Remarks </h3>
 <hr>
 
