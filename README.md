@@ -3,6 +3,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b3c04b4a-58f5-4456-b42a-422e63add397/deploy-status)](https://app.netlify.com/sites/poeticjustice/deploys)
 
+<!-- https://app.netlify.com/sites/poeticjustice/settings/domain --!>
+
 <br>
 <!-- <img align="center" alt="GIF" src="https://github.com/poeticjustice1/poeticjustice1/blob/main/code.gif?raw=true" width="500" height="320" /> --!>
 
