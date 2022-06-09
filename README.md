@@ -86,5 +86,12 @@ github stats--!>
 
 <p style="text-align: center">Understand you won't always have an answer, but also understand it's your responsibility to have one the next time the same question comes up.</p>
 
+<details>
+<summary> Just for fun </summary>
+<p align="center">
+<img src="https://random-memer.herokuapp.com/" width="600" height="512"/>
+</p>
+</details>
+
 
 
