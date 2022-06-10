@@ -22,6 +22,9 @@
 I always keep learning something new and reinforcing what i already know.
 
 <br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <hr>
