@@ -1,4 +1,10 @@
-<h1 align="center">Hi , I'm Gavin Masese  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"> </h1>
+
+
+
+![waving](https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=Masese%20&fontAlignY=40&color=gradient&)
+
+
+
 <h3 align="center">A passionate mobile developer from Nairobi</h3>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b3c04b4a-58f5-4456-b42a-422e63add397/deploy-status)](https://app.netlify.com/sites/poeticjustice/deploys)
@@ -10,7 +16,7 @@
 
 
 <!--profile visits--!>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poeticjustice1&label=Profile%20views&color=0e75b6&style=flat" alt="poeticjustice1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poeticjustice1&label=Profile%20views&color=0e75b6&style=flat" alt="ALIENS ARE REAL" /> </p>
 
 <!--twitter badge--!>
 <p align="left"> <a href="https://twitter.com/gavinmasese" target="blank"><img src="https://img.shields.io/twitter/follow/gavinmasese?logo=twitter&style=for-the-badge" alt="gavinmasese" /></a> </p>
