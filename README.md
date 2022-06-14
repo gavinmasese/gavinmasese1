@@ -4,8 +4,12 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=Masese%20&fontAlignY=40&color=gradient&)
 
 
-
-<h3 align="center">A passionate mobile developer from Nairobi</h3>
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   </i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+<h3 align="left">A passionate mobile developer from Nairobi</h3>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b3c04b4a-58f5-4456-b42a-422e63add397/deploy-status)](https://app.netlify.com/sites/poeticjustice/deploys)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gavinmasese.github.io/)
