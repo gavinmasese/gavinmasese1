@@ -6,7 +6,7 @@
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   </i>
+• <i>Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 <h3 align="left">A passionate mobile developer from Nairobi</h3>
