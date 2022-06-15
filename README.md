@@ -13,7 +13,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b3c04b4a-58f5-4456-b42a-422e63add397/deploy-status)](https://app.netlify.com/sites/poeticjustice/deploys)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gavinmasese.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gavinmasese)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xenomorph-xx121/)
 
 <br>
 <!-- <img align="center" alt="GIF" src="https://github.com/poeticjustice1/poeticjustice1/blob/main/code.gif?raw=true" width="500" height="320" /> --!>
@@ -40,7 +40,7 @@ I always keep learning something new and reinforcing what i already know.
 <hr>
 <p align="left">
 <a href="https://twitter.com/gavinmasesese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gavinmasesese" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/masese gavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masese gavin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/xenomorph-xx121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masese gavin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19150999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19150999" height="30" width="40" /></a>
 </p>
 
