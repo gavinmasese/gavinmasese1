@@ -1,7 +1,7 @@
 
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=Masese%20&fontAlignY=40&color=gradient&)
+<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=Masese%20&fontAlignY=40&color=gradient&) --!>
 
 
 <a href="https://github.com/marketplace/actions/quote-readme">
