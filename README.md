@@ -6,7 +6,7 @@
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“It’s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.”— Steve McConnell</i>
+• <i>“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 <h3 align="left">A passionate mobile developer from Nairobi</h3>
