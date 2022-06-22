@@ -110,7 +110,17 @@ github stats--!>
 <hr>
 <a href="https://www.buymeacoffee.com/gavinmasese" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+</a>
+<br>
+
+<div style='text-align: center;'>
+  <img alt='Masese Gavin'
+       src='https://barcode.tec-it.com/barcode.ashx?data=Masese-Gavin&code=&unit=Min&imagetype=Png'/>
+</div>
+<div style='padding-top:8px; text-align:center; font-size:15px; font-family: Source Sans Pro, Arial, sans-serif;'>
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
+
