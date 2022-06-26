@@ -6,7 +6,7 @@
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The best way to predict the future is to implement it.”— David Heinemeier Hansson   </i>
+• <i>“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 <h3 align="left">A passionate mobile developer from Nairobi</h3>
