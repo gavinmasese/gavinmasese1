@@ -1,13 +1,5 @@
-
-
-
-<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=Masese%20&fontAlignY=40&color=gradient&) --!>
-
-
 <a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
 • <i>In 2012, the founder of McAfee Antivirus, John McAfee was asked if he personally uses McAfee anti-virus, he replied by saying “I take it off,” and that “It’s too annoying.”</i>
-<!--ENDS_HERE_QUOTE_README-->
 </a>
 <h3 align="left">A passionate mobile developer from Nairobi</h3>
 
