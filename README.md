@@ -8,8 +8,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xenomorph-xx121/)
 
 <br>
-<!-- <img align="center" alt="GIF" src="https://github.com/poeticjustice1/poeticjustice1/blob/main/code.gif?raw=true" width="500" height="320" /> --!>
-
 
 <!--profile visits--!>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poeticjustice1&label=Profile%20views&color=0e75b6&style=flat" alt="ALIENS ARE REAL" /> </p>
