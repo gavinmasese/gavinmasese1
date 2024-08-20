@@ -105,17 +105,6 @@ github stats--!>
 
 <p style="text-align: center">Understand you won't always have an answer, but also understand it's your responsibility to have one the next time the same question comes up.</p>
 
-<details>
-<summary> <b> Just for fun </b> </summary>
-<hr>
-<p align="left">
-<img src="https://random-memer.herokuapp.com/" width="600" height="512"/>
-</p>
-<br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&bar_color=860797&bar_color_cover=true)](https://github.com/gavinmasese)
-
-</details>
 
 <hr>
 <a href="https://www.buymeacoffee.com/gavinmasese" target="_blank" rel="noreferrer nofollow">
